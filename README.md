@@ -11,7 +11,7 @@ Idea: Parse our MarcXML data to RDF (Turtle) and save the triplets in a apache j
 STATUS:
 - [X] Get MarcXML Data
 - [X] Set up apache Jena Fuseki as docker container
-- [X] [Define a Data Model](#data-model)
+- [X] [Define a Data Model](#current-workflow)
 - [X] Write first script for the parser
 - [X] Write first script for the database integration
 - [X] Write first script for the visualization
@@ -39,5 +39,6 @@ Feel free to commit :)
 
 ---
 
-## Data Model
-![Data Model for the parsing](lib/assets/marcxml2rdf_datamodel_2.jpg)
+## Current Workflow
+
+![Current Workflow](current_workflow.png)

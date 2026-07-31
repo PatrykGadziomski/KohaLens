@@ -3,3 +3,4 @@ input/
 output/
 docker-compose.yml
 venv/
+lib/assets/
