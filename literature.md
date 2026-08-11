@@ -1,0 +1,18 @@
+[1] Haslhofer, B., Isaac, A., & Simon, R. (2018). Knowledge Graphs in the Libraries and Digital Humanities Domain. ArXiv, abs/1803.03198. https://doi.org/10.1007/978-3-319-63962-8_291-1
+[2] Romero, G. C., Esteban, M. P. E., Carrasco, R. C., & Such, M. (2017). Migration of a library catalogue into RDA linked open data. Semantic Web, 9, 481-491. https://doi.org/10.3233/sw-170274
+[3] Francart, T. (2023). Sparnatural: A Visual Knowledge Graph Exploration Tool. 11-15. https://doi.org/10.1007/978-3-031-43458-7_2
+[4] Khoo, C. S. G., Tan, E. A. L., Ng, S.-G., Chan, C., Stanley-Baker, M., & Cheng, W. (2024). Knowledge Graph Visualization Interface for Digital Heritage Collections. Information Technology and Libraries. https://doi.org/10.5860/ital.v43i1.16719
+[5] Ugli, B. M. X., Saidova, K., Suloymonov, I., Ehssan, M., Ernazarova, G., Nazirova, S., & Shadimetova, G. (2025). Knowledge Graphs for Intelligent Decision-Making in Library Networks. Indian Journal of Information Sources and Services. https://doi.org/10.51983/ijiss-2026.16.1.35
+[6] Liu, F. (2026). Knowledge graph-based intelligent data management and information innovation service model for university library systems. PLOS One, 21. https://doi.org/10.1371/journal.pone.0341307
+[7] Jett, J., Kudeki, D., Worhtley, G., Cole, T., & Downie, J. (2020). Applying BIBFRAME in large‐scale digital libraries: The HathiTrust Research Center's experience. Proceedings of the Association for Information Science and Technology, 57. https://doi.org/10.1002/pra2.410
+[8] Bigelow, I., Davoodi, D., Farnel, S., & Sparling, A. (2017). Who Will be Our bf: Comparing techniques for conversion from MARC to BIBFRAME.
+[9] Machala, L., Mravunac, V., & Machala, D. (2017). Automated Creation of BIBFRAME Data Using MARCEditTesting BIBFRAME Crosswalk of the Croatian National Bibliography.
+[10] Ogbuji, U., & Baker, M. (2015). Data transforms, patterns and profiles for 21st century Cultural Heritage. https://doi.org/10.4242/balisagevol16.ogbuji01
+[11] Nuzzolese, A. G. (2025). Streamlining Knowledge Graph Creation with PyRML. ArXiv, abs/2505.20949. https://doi.org/10.48550/arxiv.2505.20949
+[12] Karp, S. (2025). BIBFRAME without BIBFRAME: The infrastructure of next-generation cataloging workflows. Technical Services Quarterly, 42, 318 - 327. https://doi.org/10.1080/07317131.2025.2512281
+[13] Zapounidou, S., Ioannidis, L., Gerolimos, M., Koufakou, E., & Bratsas, C. (2024). Entity Management Using RDA and Wikibase: A Case Study at the National Library of Greece. Journal of Library Metadata, 24, 111 - 131. https://doi.org/10.1080/19386389.2024.2307208
+[14] Rajeevan, M., & Devi, B. M. (2026). Transforming OPACs into Intelligent Discovery Systems: An AI-Powered, Knowledge Graph-Driven Smart OPAC for Digital Libraries. ArXiv, abs/2604.01262. https://doi.org/10.48550/arxiv.2604.01262
+[15] Färber, M. (2019). The Microsoft Academic Knowledge Graph: A Linked Data Source with 8 Billion Triples of Scholarly Data. 113-129. https://doi.org/10.1007/978-3-030-30796-7_8
+[16] Li, H., Appleby, G., Brumar, C., Chang, R., & Suh, A. (2023). Knowledge Graphs in Practice: Characterizing their Users, Challenges, and Visualization Opportunities. IEEE Transactions on Visualization and Computer Graphics, 30, 584-594. https://doi.org/10.1109/tvcg.2023.3326904
+[17] Peng, C., Xia, F., Naseriparsa, M., & Osborne, F. (2023). Knowledge Graphs: Opportunities and Challenges. Artificial Intelligence Review, 1 - 32. https://doi.org/10.1007/s10462-023-10465-9
+[18] Albano, V., Carau, G., Firmani, D., Gullo, E., Ilardi, C., & Laura, L. (2025). Semantic Digital Libraries in Public Administration: A Knowledge Graph Approach to Certificate Request Management.
