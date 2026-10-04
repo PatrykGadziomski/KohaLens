@@ -1,6 +1,7 @@
-# KohaLens (MarcXML2RDF4Koha)
+# KohaLens
 
 ![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg) ![Version](https://img.shields.io/badge/version-0.1-blue)
+![Static Badge](https://img.shields.io/badge/Koha?style=flat&logoColor=green)
 
 ![Banner](banner.jpg)
 
