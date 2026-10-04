@@ -19,4 +19,5 @@ Feel free to leave a message and commit :)
 ## How-To
 
 This is a really messy 'how to'! We're still working on documenting our processes in a way that is both understandable and attractive.
---> [[HowTo.md]]
+
+--> ![How-To](HowTo.md)
