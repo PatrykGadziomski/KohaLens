@@ -12,8 +12,11 @@ My goal is to create a Koha plugin that can easily convert MARC XML to Turtle fo
 
 Feel free to leave a message and commit :)
 
----
-
 ## Current Workflow
 
 ![Current Workflow](current_workflow.png)
+
+## How-To
+
+This is a really messy 'how to'! We're still working on documenting our processes in a way that is both understandable and attractive.
+--> [[HowTo.md]]
