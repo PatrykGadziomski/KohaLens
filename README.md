@@ -1,9 +1,8 @@
 # KohaLens
 
-![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg) ![Version](https://img.shields.io/badge/version-0.1-blue)
-![Static Badge](https://img.shields.io/badge/Koha?style=flat&logoColor=green)
-
 ![Banner](banner.jpg)
+
+![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg) ![Version](https://img.shields.io/badge/version-0.1-blue)
 
 This small university project began at the Technical University of Applied Sciences Wildau, Germany, and is now being developed further at the Library of Crafts in Berlin, Germany.
 
